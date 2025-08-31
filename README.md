@@ -1,4 +1,4 @@
-# CodTech Internship - Task 1: Big Data Analysis using PySpark
+# Big Data Analysis using PySpark
 
 This repository contains the first task completed for the CodTech Data Analysis Internship.
 
